@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\monik\\GitT\\grafika_lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C624775C-F891-4EAA-A4F5-B54668714CAE}|OpenGLrememberProj\\OpenGLrememberProj.vcxproj|C:\\Users\\monik\\GitT\\grafika_lab1\\OpenGLrememberProj\\Render.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C624775C-F891-4EAA-A4F5-B54668714CAE}|OpenGLrememberProj\\OpenGLrememberProj.vcxproj|solutionrelative:OpenGLrememberProj\\Render.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Render.cpp",
+              "DocumentMoniker": "C:\\Users\\monik\\GitT\\grafika_lab1\\OpenGLrememberProj\\Render.cpp",
+              "RelativeDocumentMoniker": "OpenGLrememberProj\\Render.cpp",
+              "ToolTip": "C:\\Users\\monik\\GitT\\grafika_lab1\\OpenGLrememberProj\\Render.cpp",
+              "RelativeToolTip": "OpenGLrememberProj\\Render.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-22T06:25:30.337Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
